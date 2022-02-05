@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project main is to help understand on how to create NN from scratch and to help know the architecture involved.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Building Neural Network (NN) from scratch using Java.
+PURPOSE OF PROJECT: To understand the architecture and how NN work.
+VERSION or DATE: Bluej 5.0.2. 
+HOW TO START THIS PROJECT: Open in Bluej 5.0.2
+AUTHORS: william
+USER INSTRUCTIONS: this is build using blueJ IDEA.
