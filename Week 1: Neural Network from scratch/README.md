@@ -1,4 +1,4 @@
-## Neural Network From Scratch
+## Introduction to Artificial Neural Networks
 
 ------------------------------------------------------------------------
 This project main is to help understand on how to create NN from scratch and to help know the architecture involved.
