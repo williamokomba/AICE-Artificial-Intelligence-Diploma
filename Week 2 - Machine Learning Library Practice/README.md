@@ -1,4 +1,4 @@
-##Tensorflow basics
+# Tensorflow basics
 
 This project was meant to familiarize with tensorflow basics where i usesd MNIST data.
 
