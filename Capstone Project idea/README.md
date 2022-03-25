@@ -1,4 +1,4 @@
-  # Stock market prediction (TIME SERIES)
+  # Stock market prediction (Time Series)
   
   This is an idea of the kind of the project I will be handling.
   Given the Covid_19 menace which is not stopping anytime soon, and the invasion of Ukrain by Russian forces, it's prudent to come up with a model which can be used to predict stock market prices.
