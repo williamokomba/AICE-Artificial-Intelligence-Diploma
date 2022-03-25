@@ -5,7 +5,7 @@
   
  The model to guide me was sourced from https://www.kaggle.com/code/nageshsingh/stock-market-forecasting-arima
  
-#  Real Project
+#  AICE FINAL PROJECT
  
 1. part 1 are my final project codes, this was modeling without feature transformation and it gaive an impresives accuracy score of 93% with the loss of less than 0.01 with no overffing(residual score of almost 0):"https://colab.research.google.com/drive/1i2Qg1lQkQdym3AxEGDsArlAGDj5gz55e#scrollTo=43uHNuWM3-r3"
 
