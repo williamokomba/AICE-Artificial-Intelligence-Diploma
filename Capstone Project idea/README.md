@@ -9,8 +9,8 @@
 
 ## APPLE (AAPL) INC STOCK MARKET PREDICTION
 
-1. part 1 are my final project codes, this was modeling without feature transformation and it gaive an impresives accuracy score of 93% with the loss of less than 0.01 with no overffing(residual score of almost 0):"https://colab.research.google.com/drive/1i2Qg1lQkQdym3AxEGDsArlAGDj5gz55e#scrollTo=43uHNuWM3-r3"
+1. part 1 is my final project codes, this was modeling without feature transformation and it gave an impressive accuracy score of 93% with the loss of less than 0.01 with no overffing(residual score of almost 0):"https://colab.research.google.com/drive/1i2Qg1lQkQdym3AxEGDsArlAGDj5gz55e#scrollTo=43uHNuWM3-r3"
 
-2. Part 2 i log transformed my features is features predict the target variable better when are normally distributed. i got an accuracy score of 97%. :"https://colab.research.google.com/drive/1ez2rZXAn7pcQ0jlPfRPXS13xoreRCn1z#scrollTo=8HC6izt_xKm9"
+2. Part 2 I log transformed my features is features predict the target variable better when are normally distributed. i got an accuracy score of 97%. :"https://colab.research.google.com/drive/1ez2rZXAn7pcQ0jlPfRPXS13xoreRCn1z#scrollTo=8HC6izt_xKm9"
  
  
